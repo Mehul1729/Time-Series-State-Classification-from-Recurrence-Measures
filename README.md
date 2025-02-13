@@ -1,4 +1,3 @@
-This is the ML-2 Assingment-1 Submission.
-It involves exploring basic ML algorithms to classify time series into Periodic, Chaotic, Hyperchaotic and Noise by extracting Recurrence Features.
+This repo involves exploring basic ML algorithms to advanced DL networks like CNN and LSTM to classify time series into Periodic, Chaotic, Hyperchaotic and Noise by extracting Recurrence Features.
 
-This serves as a base for the future study where more advanced models like LSTMs, CNN can be applied on Noisy Real World Datasets from Climate, Space, etc.
+Recurrence Measures are easy to extract features and can act as a biodata for the dynamics of a complex system like variational stars, climatic patterns and any other system that generates time series data.
